@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohamedsamara/mern-ecommerce.git"
+    "url": "https://github.com/ColinJR95"
   },
   "keywords": [
     "node",
@@ -25,12 +25,12 @@
     "redux-thunk",
     "webpack"
   ],
-  "author": "Mohamed Samara (https://github.com/mohamedsamara)",
+  "author": "Javier Colin (https://github.com/ColinJR95)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mohamedsamara/mern-ecommerce/issues"
+    "url": "https://github.com/ColinJR95"
   },
-  "homepage": "https://github.com/mohamedsamara/mern-ecommerce#readme",
+  "homepage": "https://github.com/ColinJR95",
   "dependencies": {
     "axios": "^0.19.0",
     "bcryptjs": "^2.4.3",
