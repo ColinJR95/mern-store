@@ -1,6 +1,6 @@
 /**
  *
- * Input
+ * Input- this is frot the quantitiy of the cart. 
  *
  */
 
