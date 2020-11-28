@@ -1,6 +1,6 @@
 /**
  *
- * Input- this is frot the quantitiy of the cart. 
+ * Input- this is for the quantitiy of the cart. Using it to input
  *
  */
 
